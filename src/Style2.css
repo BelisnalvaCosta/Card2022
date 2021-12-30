@@ -1,7 +1,7 @@
 #card{
     background-color:rgb(230, 57, 57) ;
     width: 400px;
-    height: 590px;
+    height: 580px;
     border-radius: 5%;
     margin-left: 400px;
 }
@@ -15,22 +15,21 @@
 }
 
 #info{
-    background-color: aqua;
+    background-color: rgb(37, 179, 179);
     margin: 20px;
     border-radius: 5%;
 }
 
 #info p{ 
     padding-left: 70px;  
-    padding-top: 5%;
-    padding: auto;
+    padding-top: 5%; 
+    margin-left: 25px;       
 }
 
 #techs{
     width: 45px;
     height: 45px;
-    margin-left: 20x;
-    padding: auto;
+    margin-left: 25px;    
 }
 
 #code{
@@ -41,7 +40,7 @@
 #cont{
     width: 45px;
     height: 45px;
-    margin-left: 25x;
+    margin-left: 25px;
     padding: auto;
 }
 
