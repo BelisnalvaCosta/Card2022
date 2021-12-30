@@ -17,7 +17,8 @@
 #info{
     background-color: rgb(37, 179, 179);
     margin: 20px;
-    border-radius: 5%;
+    border-radius: 7%;
+    background-color: black;
 }
 
 #info p{ 
